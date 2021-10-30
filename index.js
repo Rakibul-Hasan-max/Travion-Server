@@ -73,10 +73,3 @@ app.get('/', (req, res) => {
 app.listen(port, () => {
 	console.log('Listening Travion server on port', port);
 })
-
-
-
-
-// heroku login 
-// heroku create 
-// git push heroku main 
